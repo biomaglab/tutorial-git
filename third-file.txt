@@ -1,0 +1,1 @@
+Situation 3 - Create line one on third file to use pull instead of fetch and merge.
