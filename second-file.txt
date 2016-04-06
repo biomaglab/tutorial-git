@@ -1,1 +1,2 @@
 This is the first line of second file. This file was created on local repository.
+Situation 2 - Create second line of second file remotely and update it locally.
