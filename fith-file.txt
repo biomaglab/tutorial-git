@@ -1,0 +1,3 @@
+First line of fith file created on branch_tutorial of notebook
+Second line of fith file created on branch_tutorial pc and edited first line
+Third line of fith file created on branch_tutorial of notebook to set desktop track branch automatically
