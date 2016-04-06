@@ -1,3 +1,4 @@
 This is the line 1 of first file.
 Second line of first file created on upstream
 This is the line 2 created on local repository.
+Situation 1 - Local edit of second line on first file and update origin
