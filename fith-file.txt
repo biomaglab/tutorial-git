@@ -1,1 +1,2 @@
-First line of fith line created on branch_tutorial of notebook
+First line of fith file created on branch_tutorial of notebook
+Second line of fith file created on branch_tutorial pc and edited first line
