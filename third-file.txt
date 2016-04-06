@@ -1,1 +1,2 @@
 Situation 3 - Create line one on third file to use pull instead of fetch and merge.
+Situation 5 - Create third line of third file to use ammend on local commit in different pc
