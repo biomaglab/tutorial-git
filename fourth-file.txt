@@ -1,2 +1,3 @@
 First line of fourth file created in upstream repo
 Second line of fourth file created on branch_tutorial on desktop
+Situation 10: Third line created on upstream biomag
